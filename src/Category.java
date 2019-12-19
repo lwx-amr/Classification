@@ -2,11 +2,11 @@
 public class Category {
 	
 	// Variables
-	double yes, no;
+	double numOfYes, numOfNo;
 	
 	// Constructor
 	public Category(double yes, double no) {
-		this.yes = yes;
-		this.no = no;
+		this.numOfYes = yes;
+		this.numOfNo = no;
 	}
 }
